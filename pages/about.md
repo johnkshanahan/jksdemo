@@ -14,7 +14,7 @@ credits: true
 
 ## About the Johnny Shanahan Collection
 
-This site is generated as a test of Github's capabilities. I used sample data from CollectionBuilder to make this page, including: 
+This website was generated as a test of Github's capabilities. I used sample data from CollectionBuilder to make this page, including: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
